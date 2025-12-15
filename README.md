@@ -9,7 +9,7 @@
   👋 <b>Hi! I’m a Data Analyst with 4 years of experience.</b><br>
   Currently, I’m bridging the gap between academic theory and real-world application by pursuing a Master’s in <b>Informatics and Econometrics</b>.
   <br><br>
-  🚀 <b>Current Focus:</b> Building a <a href="#">Best Price Recommendation Engine</a> using advanced analytics.
+  🚀 <b>Current Focus:</b> Building a Best Price Recommendation Engine using advanced analytics.
   <br><br>
   🛠 <b>Core Stack:</b> Proficient in <b>Python, SQL, and Power BI</b> (DAX/M). I specialize in turning complex datasets into actionable business insights.
 </p>
