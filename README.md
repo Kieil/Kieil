@@ -6,7 +6,7 @@
 </div>
 
 <p align="left">
-  👋 <b>Hi! I’m a Data Analyst with 4 years of experience.</b><br>
+  👋 <b>I’m a Data Scientist with 4 years of experience.</b><br>
   Currently, I’m bridging the gap between academic theory and real-world application by pursuing a Master’s in <b>Informatics and Econometrics</b>.
   <br><br>
   🚀 <b>Current Focus:</b> Building a Best Price Recommendation Engine using advanced analytics.
